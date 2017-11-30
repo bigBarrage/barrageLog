@@ -1,0 +1,9 @@
+[broadcasting]
+host=localhost
+port=8911
+uri=broadcasting
+[mongo]
+addrs=localhost:27017 localhost:27019
+username=root
+password=
+database=barrage
